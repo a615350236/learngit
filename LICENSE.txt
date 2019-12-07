@@ -1,1 +1,2 @@
+test same file from origin fiel work/stage.
 This is the LICENSE file.
